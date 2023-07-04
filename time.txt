@@ -1,0 +1,9 @@
+input I =1000000
+input number of cores =1
+[     2      3      5 ... 999961 999979 999983]
+214.8484373 sec 1 cores 78498 primes
+
+nput I =1000000
+input number of cores =16
+[     2      3      5 ... 999961 999979 999983]
+16.3254895 sec 16 cores 78498 primes
